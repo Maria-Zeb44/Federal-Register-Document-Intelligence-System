@@ -61,9 +61,3 @@ Development
 
 Contributing
 - Open an issue or PR on GitHub. Keep changes small and focused.
-
-License
-- MIT (add your preferred license)
-
-Contact
-- Maintainer: repository owner
